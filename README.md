@@ -1,6 +1,6 @@
 # RNN-for-Joint-NLU
 
-## 模型介绍
+## I combined the code for running in kaggle kernel,you may upload the the ipynb file to kaggle to execute.......also u may use the dataset in the format(https://github.com/applenob/RNN-for-Joint-NLU/)
 
 ![](https://github.com/applenob/RNN-for-Joint-NLU/raw/master/res/arc.png)
 
